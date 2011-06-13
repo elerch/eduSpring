@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0 - Advantages of DI", "0 - Advantages of DI\0 - Advantages of DI.csproj", "{C161149F-4E37-4976-9A23-AB7C38DDD406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -24,6 +26,10 @@ Global
 		{8B155B00-EEA6-4BA4-85DC-6FCD8ED60151}.Debug|x86.Build.0 = Debug|x86
 		{8B155B00-EEA6-4BA4-85DC-6FCD8ED60151}.Release|x86.ActiveCfg = Release|x86
 		{8B155B00-EEA6-4BA4-85DC-6FCD8ED60151}.Release|x86.Build.0 = Release|x86
+		{C161149F-4E37-4976-9A23-AB7C38DDD406}.Debug|x86.ActiveCfg = Debug|x86
+		{C161149F-4E37-4976-9A23-AB7C38DDD406}.Debug|x86.Build.0 = Debug|x86
+		{C161149F-4E37-4976-9A23-AB7C38DDD406}.Release|x86.ActiveCfg = Release|x86
+		{C161149F-4E37-4976-9A23-AB7C38DDD406}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
